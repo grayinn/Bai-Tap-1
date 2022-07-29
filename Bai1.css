@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+}
+
+.all{
+    width: 1420px;
+    height: 635px;
+    padding: 55px 66px;
+    background-color: #DBDEFF;
+    box-sizing: border-box;
+}
+
+
+.mot_hai{
+    float: left;
+}
+
+.mot{
+    background-color: #D30557;
+    width: 250px;
+    height: 155px;
+    box-sizing: border-box;
+    margin-bottom: 18px;
+}
+
+.hai{
+    background-color: #EA6601;
+    width: 250px;
+    height: 339px;
+    box-sizing: border-box;
+ }
+
+.ba_bon_nam{
+    float: left;
+    margin-left: 18px;
+    width: 585px;
+ }
+
+ .ba_bon {
+    display: flex;
+}
+
+.ba {
+    background-color: #00ABA5;
+    width: 400px;
+    height: 155px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.bon {
+    background-color: #009A78;
+    width: 152px;
+    height: 155px;
+    box-sizing: border-box;
+    margin-left: 18px;
+    float: left;
+}
+
+.nam {
+    background-color: #FF8961;
+    width: 570px;
+    height: 341px;
+    box-sizing: border-box;
+    margin-top: 18px;
+    float: left;
+}
+
+
+.sau {
+    background-color: #2196D9;
+    width: 150px;
+    height: 515px;
+    box-sizing: border-box;
+    margin-left: 5px;
+    float: left;
+
+}
+
+.bay {
+    background-color: #1B6D9F;
+    width: 220px;
+    height: 515px;
+    box-sizing: border-box;
+    margin-left: 18px;
+    float: left;
+}
+
+.tam {
+    background-color: #58C0FB;
+    width: 15px;
+    height: 515px;
+    box-sizing: border-box;
+    margin-left: 18px;
+    float: left;
+} 
+
+
+
